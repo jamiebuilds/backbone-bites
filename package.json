@@ -1,0 +1,30 @@
+{
+  "name": "backbone-bites",
+  "version": "0.0.1",
+  "description": "A collection of handy micro-extensions to the built-in Backbone classes",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejameskyle/backbone-bites.git"
+  },
+  "keywords": [
+    "backbone",
+    "underscore",
+    "plugin"
+  ],
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/backbone-bites/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/backbone-bites"
+}
